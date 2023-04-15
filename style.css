@@ -1,0 +1,11 @@
+.post_body{
+    font-size: 1.2rem;
+    background: #fff;
+    color: #000;
+    overflow: auto;
+    border-radius: 8px;
+    padding: 4rem;
+    position: relative;
+    letter-spacing: 1px;
+    
+} 
